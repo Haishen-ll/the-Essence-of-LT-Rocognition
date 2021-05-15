@@ -86,12 +86,21 @@ The results are shown in the following table.
 
 <img src="./image/4.png" alt="Editor" width="500"></td>
 
-
 ### Self-Supervised pretraining
 
 #### Setting
-
 This part is refer to [Rethinking the Value of Labels for Improving Class-Imbalanced Learning]
+
+#### Main Results
+The results are shown in the following table.
+
+<img src="./image/5.png" alt="Editor" width="500"></td>
+
+### Different Architectures
+
+#### Main Results
+
+<img src="./image/6.png" alt="Editor" width="500"></td>
 
 ## Contact
 If you have any questions, feel free to contact us through email (leiliu@link.cuhk.edu.cn) or Github issues.
