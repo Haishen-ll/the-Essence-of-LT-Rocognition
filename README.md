@@ -43,7 +43,7 @@ Self-supervised pre-training is to help model learn discriminative features for 
 
 #### Main Files
 - [`train_classifier.py`](train_classifier.py): train the classifier with fixed parameters of feature extractor.
-- [`train_classifier.py`](train_feature.py): train the feature extractor with (or without) SSP.
+- [`train_feature.py`](train_feature.py): train the feature extractor with (or without) SSP.
 - [`imagenet_inat/main.py`](./imagenet_inat/main.py): train model with (or without) SSP, on ImageNet-LT / iNaturalist 2018
 - [`pretrain_rot.py`](pretrain_rot.py) & [`pretrain_moco.py`](pretrain_moco.py): self-supervised pre-training using [Rotation prediction](https://arxiv.org/pdf/1803.07728.pdf) or [MoCo](https://arxiv.org/abs/1911.05722). This part is refer to [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://github.com/YyzHarry/imbalanced-semi-self).
 
