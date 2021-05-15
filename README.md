@@ -44,8 +44,9 @@ Self-supervised pre-training is to help model learn discriminative features for 
 #### Main Files
 - [`train_classifier.py`](train_classifier.py): train the classifier with fixed parameters of feature extractor.
 - [`train_feature.py`](train_feature.py): train the feature extractor with (or without) SSP.
-- [`imagenet_inat/main.py`](./imagenet_inat/main.py): train model with (or without) SSP, on ImageNet-LT / iNaturalist 2018
-- [`pretrain_rot.py`](pretrain_rot.py) & [`pretrain_moco.py`](pretrain_moco.py): self-supervised pre-training using [Rotation prediction](https://arxiv.org/pdf/1803.07728.pdf) or [MoCo](https://arxiv.org/abs/1911.05722). This part is refer to [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://github.com/YyzHarry/imbalanced-semi-self).
+- [`imagenet_inat/main.py`](./imagenet_inat/main.py): train model with (or without) SSP, on ImageNet-LT / iNaturalist 2018.
+- [`verification/imbalance_cifar.py`](./verification/imbalance_cifar.py): generate imbalanced and similar data for majority classes.
+- [`pretrain_rot.py`](pretrain_rot.py) & [`pretrain_moco.py`](pretrain_moco.py): self-supervised pre-training using [Rotation prediction](https://arxiv.org/pdf/1803.07728.pdf) or [MoCo](https://arxiv.org/abs/1911.05722). This part is refer to [Rethinking the Value of Labels for Improving Class-Imbalanced Learning].(https://github.com/YyzHarry/imbalanced-semi-self).
 
 #### Main Arguments
 - `--dataset`: name of chosen long-tailed dataset
@@ -63,16 +64,32 @@ Self-supervised pre-training is to help model learn discriminative features for 
 
 __CIFAR-10-LT__: CIFAR-10 unlabeled data is prepared following [this repo](https://github.com/yaircarmon/semisup-adv) using the [80M TinyImages](https://people.csail.mit.edu/torralba/publications/80millionImages.pdf). 
 
-#### setting
+#### Setting
 
 To conduct the Toy Example (case 1), first  is to fix the sample number for the 10-th class, while the sample number for each top-9 class is manually increased from 100 to 5,000 with the step of 100. 
 
 To conduct the Toy Example (case 2), first  is to fix the sample number for each top-9 class, while the sample number for the 10-th class is manually decreased from 5,000 to 100 with the step of 100. 
 
+#### Main Results
+The results are shown in the following tables.
+
+<img src="./image/3-1.png" alt="Editor" width="400"></td>
+<img src="./image/3-2.png" alt="Editor" width="400"></td>
+
+### Verification Experiment
+
+#### Setting
+To demonstrate this theoretical finding experimentally, we skillfully construct some virtual similar samples with the help of [mixup](https://arxiv.org/abs/1710.09412).
+
+#### Main Results
+The results are shown in the following table.
+
+<img src="./image/4.png" alt="Editor" width="500"></td>
+
 
 ### Self-Supervised pretraining
 
-#### setting
+#### Setting
 
 This part is refer to [Rethinking the Value of Labels for Improving Class-Imbalanced Learning]
 
