@@ -11,8 +11,8 @@ In this work, we show theoretically and empirically that, both __sample number__
 
 __Toy Example__: 
 Toy example is to show that sample number is not the unique influence factor of long-tailed recognition.
-![toy-1](images/1-1.png)
-![toy-2](images/1-0.png)
+![toy-1](image/1-1.png)
+![toy-2](image/1-0.png)
 
 __Self-Supervised Pretraining__:
 Self-supervised pre-training is to help model learn discriminative features for the similar data.
