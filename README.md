@@ -77,8 +77,8 @@ To conduct the Toy Example (case 2), first  is to fix the sample number for each
 #### Main Results
 The results are shown in the following tables.
 <div align="center>
-<img src="./image/3-1.png" alt="Editor" width="400"></td>
-<img src="./image/3-2.png" alt="Editor" width="400"></td>
+<img src="./image/3-1.png" alt="Editor" width="400">
+<img src="./image/3-2.png" alt="Editor" width="400">
 </div>
                                                    
 ### Verification Experiment
@@ -102,7 +102,7 @@ This part is refer to [Rethinking the Value of Labels for Improving Class-Imbala
 The results are shown in the following table.
 
 <div align="center>
-<img src="./image/5.png" alt="Editor" width="500"></td>
+<img src="./image/5.png" alt="Editor" width="500">
 </div>
                                                  
 ### Different Architectures
@@ -110,7 +110,7 @@ The results are shown in the following table.
 #### Main Results
 
 <div align="center>
-<img src="./image/6.png" alt="Editor" width="500"></td>
+<img src="./image/6.png" alt="Editor" width="500">
 </div>
 
 ## Contact
