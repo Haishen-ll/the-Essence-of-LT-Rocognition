@@ -84,7 +84,7 @@ To demonstrate this theoretical finding experimentally, we skillfully construct 
 #### Main Results
 The results are shown in the following table.
 
-<img src="./image/4.png" alt="Editor" width="400"></td>
+<img src="./image/4.png" alt="Editor" width="500"></td>
 
 
 ### Self-Supervised pretraining
