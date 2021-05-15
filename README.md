@@ -16,12 +16,10 @@ Toy example is to show that sample number is not the unique influence factor of 
 
 __A Unified Perspective for Long-Tailed Learning__:
 In this section, through a simple theoretical model, we first make an intuition on how category similarity influences the classifier estimation via similar samples. With theoretical results, we skillful design verification experiments to confirm the negative effect of similar samples on performance dropping.
-<div align="center">
-	<img src="./image/2-1.png" alt="Editor" width="500">
-</div>
-<div align="center">
-	<img src="./image/2-2.png" alt="Editor" width="500">
-</div>
+<table><tr>
+<td><img src="./image/2-1.png" alt="Editor" width="500"></td>
+<td><img src="./image/2-2.png" alt="Editor" width="500"></td>
+</tr></table>
 
 __Understanding the Learning for Long-Tailed Recognition__:
 Self-supervised pre-training is to help model learn discriminative features for the similar data.
