@@ -12,8 +12,8 @@ In this work, we show theoretically and empirically that, both __sample number__
 __Toy Example__: 
 Toy example is to show that sample number is not the unique influence factor of long-tailed recognition.
 
-<table><tr>
-<td><img src="./image/1-1.png" alt="Editor" width="350"></td>
+<table align="middle"><tr>
+<td><img src="./image/1-1.png" alt="Editor" width="350" ></td>
 <td><img src="./image/1-0.png" alt="Editor" width="350"></td>
 </tr></table>
 
