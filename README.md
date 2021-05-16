@@ -81,9 +81,7 @@ The results are shown in the following tables.
  <tr>
 </td><img src="./image/3-1.png"  width="400" ></td>
 </tr>
- <tr>
-</td><img src="./image/3-2.png"  width="400" ></td>
-</tr>
+
 </table>
                                                    
 ### Verification Experiment
