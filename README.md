@@ -20,12 +20,12 @@ Toy example is to show that sample number is not the unique influence factor of 
 
 __A Unified Perspective for Long-Tailed Learning__:
 In this section, through a simple theoretical model, we first make an intuition on how category similarity influences the classifier estimation via similar samples. With theoretical results, we skillful design verification experiments to confirm the negative effect of similar samples on performance dropping.
-<div align="center>
+
 <table><tr>
 <td><img src="./image/2-1.png" alt="Editor" width="350"></td>
 <td><img src="./image/2-2.png" alt="Editor" width="350"></td>
 </tr></table>
-</div>
+
                                                        
 __Understanding the Learning for Long-Tailed Recognition__:
 Self-supervised pre-training is to help model learn discriminative features for the similar data.
@@ -76,10 +76,10 @@ To conduct the Toy Example (case 2), first  is to fix the sample number for each
 
 #### Main Results
 The results are shown in the following tables.
-<div align="center>
+
 <img src="./image/3-1.png" alt="Editor" width="400">
 <img src="./image/3-2.png" alt="Editor" width="400">
-</div>
+
                                                    
 ### Verification Experiment
 
@@ -89,9 +89,9 @@ To demonstrate this theoretical finding experimentally, we skillfully construct 
 #### Main Results
 The results are shown in the following table.
 
-<div align="center>
+
 <img src="./image/4.png" alt="Editor" width="500"></td>
-</div>
+
                                                  
 ### Self-Supervised pretraining
 
@@ -101,17 +101,17 @@ This part is refer to [Rethinking the Value of Labels for Improving Class-Imbala
 #### Main Results
 The results are shown in the following table.
 
-<div align="center>
+
 <img src="./image/5.png" alt="Editor" width="500">
-</div>
+
                                                  
 ### Different Architectures
 
 #### Main Results
 
-<div align="center>
+
 <img src="./image/6.png" alt="Editor" width="500">
-</div>
+
 
 ## Contact
 If you have any questions, feel free to contact us through email (leiliu@link.cuhk.edu.cn) or Github issues.
