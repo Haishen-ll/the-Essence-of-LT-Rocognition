@@ -11,12 +11,12 @@ In this work, we show theoretically and empirically that, both __sample number__
 
 __Toy Example__: 
 Toy example is to show that sample number is not the unique influence factor of long-tailed recognition.
-<div align="center>
+
 <table><tr>
 <td><img src="./image/1-1.png" alt="Editor" width="350"></td>
 <td><img src="./image/1-0.png" alt="Editor" width="350"></td>
 </tr></table>
-</div>
+
 
 __A Unified Perspective for Long-Tailed Learning__:
 In this section, through a simple theoretical model, we first make an intuition on how category similarity influences the classifier estimation via similar samples. With theoretical results, we skillful design verification experiments to confirm the negative effect of similar samples on performance dropping.
