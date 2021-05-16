@@ -77,8 +77,9 @@ To conduct the Toy Example (case 2), first  is to fix the sample number for each
 #### Main Results
 The results are shown in the following tables.
 
-<img src="./image/3-1.png" alt="Editor" width="400" align="middle">
-<img src="./image/3-2.png" alt="Editor" width="400" align="middle">
+<img src="./image/3-1.png"  width="400" align="middle">
+
+<img src="./image/3-2.png"  width="400" align="middle">
 
                                                    
 ### Verification Experiment
@@ -90,7 +91,7 @@ To demonstrate this theoretical finding experimentally, we skillfully construct 
 The results are shown in the following table.
 
 
-<img src="./image/4.png" alt="Editor" width="500" align="middle">
+<img src="./image/4.png"  width="500" align="middle">
 
                                                  
 ### Self-Supervised pretraining
@@ -102,7 +103,7 @@ This part is refer to [Rethinking the Value of Labels for Improving Class-Imbala
 The results are shown in the following table.
 
 
-<img src="./image/5.png" alt="Editor" width="600" align="middle">
+<img src="./image/5.png"  width="600" align="middle">
 
                                                  
 ### Different Architectures
