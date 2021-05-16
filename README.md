@@ -77,10 +77,11 @@ To conduct the Toy Example (case 2), first  is to fix the sample number for each
 #### Main Results
 The results are shown in the following tables.
 
+<table align="center"><tr>
 <img src="./image/3-1.png"  width="400" align="middle">
-
+</tr>
 <img src="./image/3-2.png"  width="400" align="middle">
-
+</tr></table>
                                                    
 ### Verification Experiment
 
