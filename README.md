@@ -79,8 +79,8 @@ The results are shown in the following tables.
 
 
 <table align="center"><tr>
-<td><img src="./image/3-1.png" alt="Editor" width="350"></td>
-<td><img src="./image/3-2.png" alt="Editor" width="350"></td>
+<td><img src="./image/3-1.png" alt="Editor" width="450"></td>
+<td><img src="./image/3-2.png" alt="Editor" width="450"></td>
 </tr></table>
 
                                                    
@@ -105,7 +105,10 @@ This part is refer to [Rethinking the Value of Labels for Improving Class-Imbala
 The results are shown in the following table.
 
 
-<img src="./image/5.png"  width="600" align="middle">
+<table align="center"><tr>
+<td><img src="./image/5.png" alt="Editor" width="500"></td>
+</tr></table>
+
 
                                                  
 ### Different Architectures
@@ -113,7 +116,9 @@ The results are shown in the following table.
 #### Main Results
 
 
-<img src="./image/6.png" alt="Editor" width="500">
+<table align="center"><tr>
+<td><img src="./image/6.png" alt="Editor" width="500"></td>
+</tr></table>
 
 
 ## Contact
