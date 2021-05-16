@@ -21,7 +21,7 @@ Toy example is to show that sample number is not the unique influence factor of 
 __A Unified Perspective for Long-Tailed Learning__:
 In this section, through a simple theoretical model, we first make an intuition on how category similarity influences the classifier estimation via similar samples. With theoretical results, we skillful design verification experiments to confirm the negative effect of similar samples on performance dropping.
 
-<table><tr>
+<table align="center"><tr>
 <td><img src="./image/2-1.png" alt="Editor" width="350"></td>
 <td><img src="./image/2-2.png" alt="Editor" width="350"></td>
 </tr></table>
@@ -77,8 +77,8 @@ To conduct the Toy Example (case 2), first  is to fix the sample number for each
 #### Main Results
 The results are shown in the following tables.
 
-<img src="./image/3-1.png" alt="Editor" width="400">
-<img src="./image/3-2.png" alt="Editor" width="400">
+<img src="./image/3-1.png" alt="Editor" width="400" align="middle">
+<img src="./image/3-2.png" alt="Editor" width="400" align="middle">
 
                                                    
 ### Verification Experiment
@@ -90,7 +90,7 @@ To demonstrate this theoretical finding experimentally, we skillfully construct 
 The results are shown in the following table.
 
 
-<img src="./image/4.png" alt="Editor" width="500"></td>
+<img src="./image/4.png" alt="Editor" width="500" align="middle">
 
                                                  
 ### Self-Supervised pretraining
@@ -102,7 +102,7 @@ This part is refer to [Rethinking the Value of Labels for Improving Class-Imbala
 The results are shown in the following table.
 
 
-<img src="./image/5.png" alt="Editor" width="500">
+<img src="./image/5.png" alt="Editor" width="600" align="middle">
 
                                                  
 ### Different Architectures
