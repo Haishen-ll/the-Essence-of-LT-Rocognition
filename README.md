@@ -4,7 +4,7 @@
 This repository contains the implementation code for paper: <br>
 __Investigate the Essence of Long-Tailed Recognition from a Unified Perspective__ <br>
 [Lei Liu](CUHKSZ), and [Li Liu](CUHKSZ) <br>
-_arxiv version_ <br>
+[[arXiv](https://arxiv.org/abs/2107.03758)] <br>
 
 If you find this code or idea useful, please consider citing our work:
 ```bib
