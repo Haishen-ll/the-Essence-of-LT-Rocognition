@@ -6,6 +6,16 @@ __Investigate the Essence of Long-Tailed Recognition from a Unified Perspective_
 [Lei Liu](CUHKSZ), and [Li Liu](CUHKSZ) <br>
 _arxiv version_ <br>
 
+If you find this code or idea useful, please consider citing our work:
+```bib
+@article{liu2021investigate,
+  title={Investigate the Essence of Long-Tailed Recognition from a Unified Perspective},
+  author={Liu, Lei and Liu, Li},
+  journal={arXiv preprint arXiv:2107.03758},
+  year={2021}
+}
+```
+
 ## Overview
 In this work, we show theoretically and empirically that, both __sample number__ (imbalanced distribution) and __category similarity__ (similar data) should be responsible for the performance dropping for imbalanced (long-tailed) recognition, and interpret representative and classifier learning from a unified perspective.
 
