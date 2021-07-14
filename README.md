@@ -94,7 +94,7 @@ The results are shown in the following tables.
 </tr></table>
 
                                                    
-### Verification Experiment
+### Simulation Experiment
 
 #### Setting
 To demonstrate this theoretical finding experimentally, we skillfully construct some virtual similar samples with the help of [mixup](https://arxiv.org/abs/1710.09412).
